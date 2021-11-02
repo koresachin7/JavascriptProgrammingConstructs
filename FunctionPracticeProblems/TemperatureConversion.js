@@ -4,7 +4,7 @@
     a. degF = (degC * 9/5) + 32
     b. degC = (degF – 32) * 5/9
  * 
- * @author Sudip Panja
+ * @author Sachin kore
  */
 
     const prompt = require('prompt-sync')({sigint : true});
